@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RuVel0710
-- 👀 I’m interested in learning NonSQL language
-- 🌱 I’m currently learning MongoDB and python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project to make me improve
 - 📫 How to reach me https://www.linkedin.com/in/ruben-velazquez-908a021ab/
 
