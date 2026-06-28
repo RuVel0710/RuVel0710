@@ -30,13 +30,6 @@
 
 ---
 
-### 📌 Featured project
-
-**[📦 Logistics Shipments Analysis](https://github.com/RuVel0710/logistics-shipments-analysis)**
-Interactive Power BI dashboard analyzing shipment performance, costs, and carrier efficiency across 2,000 shipments. Covers the full workflow: data cleaning, modeling, DAX measures, and visualization.
-
----
-
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubvel/)
